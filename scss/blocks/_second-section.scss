@@ -1,0 +1,26 @@
+.second_section {
+    width: 100%;
+    height: 40px;
+    display: flex;
+    justify-content: baseline;
+    align-items: center;
+    border: 1px solid black;
+    background-color: rgb(250, 250, 250);
+}
+.container2 {
+    width: 1300px;
+    margin-left: 10px;
+    height: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: sans-serif;
+    h5{
+        font-size: 15px;
+        img{
+            position: relative;
+            top: 2px;
+            left: 2px;
+        }
+    }
+}

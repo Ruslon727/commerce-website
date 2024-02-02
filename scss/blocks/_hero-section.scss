@@ -1,0 +1,65 @@
+.hero-section {
+    width: 100%;
+    height: 200px;
+}
+.container1{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.section {
+    width: 1440px;
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: auto;
+}
+.input {
+    width: 600px;
+    height: 30px;
+    border-radius: 10px;
+    border: 1px solid rgb(169, 169, 169);
+    color: #000;
+    font-family: sans-serif;
+    position: relative;
+    right: 150px;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    opacity: 0.8;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 200px;
+    padding-right: 40px;
+    background-color: rgb(247, 247, 247);
+}
+.input-logo {
+    position: relative;
+    top: 10px;
+    left: 15px;
+}
+.input-strelka {
+    position: relative;
+    left: 15px;
+}
+.input-line {
+    position: relative;
+    top: 5px;
+    left: 30px;
+}
+.input-search {
+    position: relative;
+    right: 190px;
+}
+.section-logo {
+    position: relative;
+    right: 60px;
+}
+.section-icon {
+    position: relative;
+    left: 20px;
+}
